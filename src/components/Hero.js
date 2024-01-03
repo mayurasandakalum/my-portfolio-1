@@ -43,12 +43,15 @@ export default function Header({ color }) {
         >
           <Heading
             fontWeight={600}
-            fontSize={{ base: "2xl", sm: "4xl", md: "6xl" }}
+            fontSize={{ base: "2xl", sm: "4xl", md: "5xl" }}
             lineHeight={"110%"}
           >
             {profile.headerName} <br />
             <Text as={"span"} color={`${color}.400`}>
-              {profile.headerRole}
+              {profile.headerRole.split("|")[0]}
+            </Text><br />
+            <Text as={"span"} color={`${color}.400`}>
+              {profile.headerRole.split("|")[1]}
             </Text>
           </Heading>
           <Text
