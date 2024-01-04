@@ -1,5 +1,5 @@
 ## LAYOUTindex
-- *Full-Stack Developer Intern* | Jan'23 - Feb'23
+- *Full-Stack Developer Intern* | Jul 2023 - Sep 2023
 - ![logo512](../assets/layout_index.png)
 - Tags: LAYOUTindex 
 - Badges:
@@ -9,15 +9,16 @@
   - Performance Optimization: Prioritized optimal performance and user experience through code optimization and scaling strategies.
   - Collaboration & Communication: Effectively collaborated with cross-functional teams on designing, implementing, and reviewing features.
 
-## Company 2
-- *Role* | Feb'23 - Mar'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 2
+## Bluechip Technologies Asia
+- *Machine Learning Intern* | Nov 2023 - Present
+- ![logo512](../assets/bluechip_technologies_asia.png)
+- Tags: Bluechip Technologies Asia
 - Badges:
-  - Badge [blue]
+  - Internship [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Applied deep learning techniques for tasks like image recognition, natural language processing, and time series forecasting.
+  - Trained and evaluated deep learning models on real-world datasets.
+  - Gained experience with popular deep learning frameworks like TensorFlow and PyTorch.
 
 ## Company 3
 - *Role* | Mar'23 - Apr'23

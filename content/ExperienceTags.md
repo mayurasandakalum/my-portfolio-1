@@ -1,3 +1,2 @@
 LAYOUTindex
-Category 2
-Category 3
+Bluechip Technologies Asia

@@ -1,26 +1,26 @@
-## Project A
+## Raw Material Transport app
 Description
-- ![600x200](https://via.placeholder.com/600x200)
+- ![raw_maretial_app](../assets/raw_maretial_app.jpg)
 - Tags: Category 1
 - Badges:
-  - Badge [blue]
+  - React.js [cyan]
+  - Node.js [green]ddd
+  - Mongo DB [red]
+  - Material UI [teal]
+  - Mapbox [blue]
+  - Socket IO [white]
 - Buttons:
-  - Link [https://example.com]
+  - Github Repo [https://github.com/mayurasandakalum/raw-material-transport-app]
 
-## Project B
+## Device Manager App
 Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 2
+- ![Device Manager App](../assets/device_manager.png)
+- Tags: Device Manager App
 - Badges:
-  - Badge [blue]
+  - React.js [cyan]
+  - Node.js [green]ddd
+  - Mongo DB [red]
+  - Material UI [teal]
+  - Socket IO [white]
 - Buttons:
-  - Link [https://example.com]
-
-## Project C
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 3
-- Badges:
-  - Badge [blue]
-- Buttons:
-  - Link [https://example.com]
+  - Github Repo [https://github.com/mayurasandakalum/device-manager]
