@@ -8,7 +8,7 @@
 - Engineering the Future with Artificial Intelligence.
 
 ## About
-Hello! I am an Artificial Intelligence Engineer. I enjoy solving problems and building innovative solutions. With a strong background in both web development and data science, I am able to tackle complex challenges and deliver high-quality results. I am passionate about leveraging technology to make a positive impact and constantly strive to learn and grow in my field.
+Hello! I am an AI Engineer with a deep passion for crafting intelligent solutions that drive innovation and efficiency. I thrive on tackling complex challenges and delivering impactful results that make a difference. My strong background in AI, machine learning, and data science empowers me to transform ideas into cutting-edge technologies. I am dedicated to continuous learning and growth, always striving to push the boundaries of what's possible in the field of artificial intelligence.
 
 ## Contact
 I'm currently looking for new opportunities. If you wish to engage me for a project or role, you can reach me via my inbox. I will get back to you as soon as I can!

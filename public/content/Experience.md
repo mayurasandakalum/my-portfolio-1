@@ -20,12 +20,18 @@
   - Performance Optimization: Prioritized optimal performance and user experience through code optimization and scaling strategies.
   - Collaboration & Communication: Effectively collaborated with cross-functional teams on designing, implementing, and reviewing features.
 
-## Company 3
-- *Role* | Mar'23 - Apr'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 3
+## Intellistrata 
+- *AI Engineer* | Aug'24 - Present
+- ![logo512](../assets/intellistrata.jpg)
+- Tags: Intellistrata
 - Badges:
-  - Badge [blue]
+  - AI Engineer [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Developed Advanced Machine Learning Models: Created and deployed machine learning models using Python and OpenAI APIs to enhance data-driven decision-making processes across various business units.
+  - AI-Powered Automation: Engineered AI-based automation tools using n8n and Python, optimizing workflow efficiency and reducing manual intervention by 40%.
+  - Data Pipeline Optimization: Designed and maintained robust data pipelines with n8n and Python, ensuring seamless data integration from multiple sources, leading to a 30% improvement in processing speed.
+  - AI Integration in Products: Integrated OpenAI-powered solutions into existing company products, significantly improving user experience and functionality.
+  - Collaboration with Cross-functional Teams: Worked closely with data scientists, software developers, and business analysts to align AI strategies with business objectives, leveraging tools like n8n for seamless collaboration.
+  - Sesearch and Development: Conducted cutting-edge research in AI, focusing on deep learning, natural language processing (NLP) using OpenAI, and automation workflows with n8n to stay ahead of industry trends.
+  - AI Compliance and Ethics: Ensured AI solutions adhered to ethical guidelines and industry standards, particularly in data privacy, fairness, and responsible AI practices.
+  - Client-Focused AI Solutions: Developed customized AI solutions using OpenAI and Python for clients, leading to a 15% increase in client satisfaction and retention.
